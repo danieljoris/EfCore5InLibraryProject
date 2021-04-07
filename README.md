@@ -1,5 +1,3 @@
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
@@ -107,9 +105,5 @@ As contribuições são o que tornam a comunidade de código aberto um lugar inc
 ## 📑 Licença
 Distribuído sob a licença MIT. Consulte a [`LICENÇA`](https://github.com/othneildrew/Best-README-Template) para obter mais informações. 
 
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/danieljoris/EfCore5InLibraryProject/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/danieljoris/EfCore5InLibraryProject/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/danieljoris/EfCore5InLibraryProject/blob/master/LICENSE.md
