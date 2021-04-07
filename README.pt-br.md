@@ -13,9 +13,9 @@
     Este projeto tem como intenção mostrar que é possível você fazer uso da CLI do Entity Framework Core 5 sem a necessidade de um projeto ASP .NET Core API/MVC.
     <br />
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Reportar Bug</a>
+    <a href="https://github.com/danieljoris/EfCore5InLibraryProject/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">English version</a>
+    <a href="https://github.com/danieljoris/EfCore5InLibraryProject/issues">English version</a>
     ·
   </p>
 </p>
